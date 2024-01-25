@@ -1,0 +1,5 @@
+Social Or Business Impact.
+
+Social Impact: A Facebook project that enhances the friend suggestion feature by offering accurate and current information helps users make better decisions about connecting with others. This leads to an improved user interface, making it easier for people to connect with genuine friends and avoid unnecessary connections.
+
+Business Impact: The project contributes to better user experience by providing information on friends and family globally, aiding users in managing notifications effectively. Users can now accept or reject friend requests more confidently, ensuring that their connections align with their real-life relationships. This enhances user satisfaction and engagement on the platform, positively impacting Facebook's business by fostering a more trustworthy and user-friendly environment.
